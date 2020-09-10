@@ -9,6 +9,8 @@
 * 
 ## Algorithm
 * 
+## Data Analystic
+* 
 
 # Study for experience
 ## 21살(1학년)
