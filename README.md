@@ -1,4 +1,7 @@
-### Hi there 👋
+### 현재 대학생 2학년에 재학생인 학생입니다.
+
+
+
 
 <!--
 **Climier-code/Climier-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
