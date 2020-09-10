@@ -3,13 +3,12 @@
 
 
 # Study for programmer
-## frontends
+## Frontends
 * 
-
-## backends
+## Backends
 * 
-
-## 
+## Algorithm
+* 
 
 # Study for experience
 ## 21살(1학년)
