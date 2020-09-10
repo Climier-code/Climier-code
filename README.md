@@ -3,13 +3,13 @@
 
 
 # Study for programmer
-## Frontends
+### Frontends
 * 
-## Backends
+### Backends
 * 
-## Algorithm
+### Algorithm
 * 
-## Data Analystic
+### Data Analystic
 * 
 
 # Study for experience
