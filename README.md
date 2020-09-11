@@ -4,6 +4,7 @@
 
 # Projects
 * IT단과대학 학술동아리 해달주최 해커톤에서 '수강신청 확실하게 행복하게' 기획 및 개발
+* 
 
 # Study for programmer
 ### Frontends
