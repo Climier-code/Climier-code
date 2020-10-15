@@ -34,7 +34,7 @@
 * 대통령직속 국가교육회의 청년특별위원회 청년 자문단
 * K-창업멘토단 1기
 * 컴퓨터학부 홍보단(CSE홍보단) 3기 웹마스터부문
-
+* 대구 청년 스타트업 실무 서포터즈 1기
 <!--
 **Climier-code/Climier-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
