@@ -15,6 +15,10 @@
 * 
 ### Data Analystic
 * 
+### Android
+* 
+### ios
+* 
 
 # Study for experience
 ### 21살(1학년)
