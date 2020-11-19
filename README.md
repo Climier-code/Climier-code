@@ -17,7 +17,7 @@
 * 
 ### Android
 * 
-### ios
+### IOS
 * 
 
 # Study for experience
