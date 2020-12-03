@@ -8,14 +8,14 @@
 
 # Study for programmer
 ### Frontends
-* 베프의 오지랖 파이썬 웹프로그래밍
-* Django 한그릇 뚝딱
+* 베프의 오지랖 파이썬 웹프로그래밍 [1](https://github.com/Climier-code/bookmark), [2](https://github.com/Climier-code/Dstagram)
+* Django 한그릇 뚝딱 [1](https://github.com/Climier-code/ToDoList_Django), [2](https://github.com/Climier-code/RestaurantShare_Django), [3](https://github.com/Climier-code/ExcelCalculate_Django)
 ### Backends
 * 
 ### Algorithm
-* 해달 곰비임비_스터디
+* [해달 곰비임비_스터디](https://github.com/Climier-code/gombi)
 ### Data Analystic
-* 해달 데이터 센타_스터디
+* [해달 데이터 센타_스터디](https://github.com/Climier-code/HaedalDataCenter)
 ### Android
 * 
 ### IOS
