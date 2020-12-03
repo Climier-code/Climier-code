@@ -3,8 +3,8 @@
 
 
 # Projects
-* [IT단과대학 학술동아리 해달주최 해커톤_'수강신청 확실하게 행복하게' 기획 및 개발(~2019.12.21)](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
-* [경북대학교 대학원 컴퓨터학부 오픈랩 홈페이지 제작 (~2020.11.9)](https://github.com/Climier-code/knu_cse_openlab_2020)
+* [IT단과대학 학술동아리 해달주최 해커톤_'수강신청 확실하게 행복하게' 기획 및 개발(2019.11~12)](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
+* [경북대학교 대학원 컴퓨터학부 오픈랩 홈페이지 제작 (2020.11)](https://github.com/Climier-code/knu_cse_openlab_2020)
 
 # Study for programmer
 ### Frontends
@@ -43,6 +43,7 @@
 * 대구 청년 스타트업 실무 서포터즈 1기
 * 교육부장관 인증 2020 학생창업유망팀 300 경진대회(U-300) 창업도전형 최종선정
 * 과학기술정보통신부, 교육부 , 한국과학창의재단 주최 SW교육 페스티벌_KT AI코딩블록 랜선클래스 강사
+* [2020 IT대학주최 코드페어 2회 스타트업 오디션_장려상](https://github.com/Climier-code/2nd_knu_codefair_potato)
 <!--
 **Climier-code/Climier-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
