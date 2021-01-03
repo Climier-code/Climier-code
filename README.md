@@ -7,7 +7,7 @@
 * [경북대학교 대학원 컴퓨터학부 오픈랩 홈페이지 제작 (2020.11)](https://github.com/Climier-code/knu_cse_openlab_2020)
 * [경북대학교 협동조합_게임으로 배우는 협동조합이란? 사이트_외주 {2020.12)](https://github.com/Climier-code/Cooperative_site.git)
 
-# Study for programmer
+# Study For Programmer
 ### Frontends
 * 베프의 오지랖 파이썬 웹프로그래밍 [1](https://github.com/Climier-code/bookmark), [2](https://github.com/Climier-code/Dstagram)
 * Django 한그릇 뚝딱 [1](https://github.com/Climier-code/ToDoList_Django), [2](https://github.com/Climier-code/RestaurantShare_Django), [3](https://github.com/Climier-code/ExcelCalculate_Django)
@@ -23,7 +23,7 @@
 ### IOS
 * 
 
-# Study for experience
+# Study For Experience
 ### 21살(1학년)
 * 1학년 과대표
 * IT단과대학 댄스동아리 'WAP' 부회장
