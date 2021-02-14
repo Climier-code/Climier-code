@@ -9,8 +9,9 @@
 
 # Study For Programmer
 ### Frontends
-* 베프의 오지랖 파이썬 웹프로그래밍 [1](https://github.com/Climier-code/bookmark), [2](https://github.com/Climier-code/Dstagram)
-* Django 한그릇 뚝딱 [1](https://github.com/Climier-code/ToDoList_Django), [2](https://github.com/Climier-code/RestaurantShare_Django), [3](https://github.com/Climier-code/ExcelCalculate_Django)
+* IT대학 학술동아리 해달 교육운영진 교육 [IntroducePage](https://github.com/Climier-code/Climier-code.github.io), [IntroduceCard](https://github.com/Climier-code/INTRODUCECARD.climier.github.io)
+* 베프의 오지랖 파이썬 웹프로그래밍 [Bookmark](https://github.com/Climier-code/bookmark), [Dstagram](https://github.com/Climier-code/Dstagram)
+* Django 한그릇 뚝딱 [ToDoList](https://github.com/Climier-code/ToDoList_Django), [RestaurantShare](https://github.com/Climier-code/RestaurantShare_Django), [ExcelCalculate](https://github.com/Climier-code/ExcelCalculate_Django)
 * VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanilajs.git), [Clone Painting](https://github.com/Climier-code/Nomad_vanilajs2.git)
 ### Backends
 * 
