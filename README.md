@@ -24,7 +24,8 @@
 ### IOS
 * 
 
-# [Study For Experience](https://github.com/Climier-code/RecordMyActivity)
+# Study For Experience
+> 이때까지 해온 활동들이 궁금하다면 👉 [RecrodMyActivity](https://github.com/Climier-code/RecordMyActivity) 👈 로 와주세요!
 
 <!--
 **Climier-code/Climier-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
