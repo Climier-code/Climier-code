@@ -17,6 +17,7 @@
 ### Backends
 * 
 ### Algorithm
+* [알고리즘 정리 + 코테 준비](https://github.com/Climier-code/TodayWhatIStudy_algorithm)
 * [해달 곰비임비_스터디](https://github.com/Climier-code/gombi)
 ### Data Analystic
 * [해달 데이터 센타_스터디](https://github.com/Climier-code/HaedalDataCenter)
