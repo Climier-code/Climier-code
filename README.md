@@ -14,8 +14,6 @@
 * Django 한그릇 뚝딱 [ToDoList](https://github.com/Climier-code/ToDoList_Django), [RestaurantShare](https://github.com/Climier-code/RestaurantShare_Django), [ExcelCalculate](https://github.com/Climier-code/ExcelCalculate_Django)
 * VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanilajs.git), [Clone Painting](https://github.com/Climier-code/Nomad_vanilajs2.git)
 * Practice_React [ToDoList_React](https://github.com/Climier-code/React-Basic/tree/master/TodoList)
-### Backends
-* 
 ### Algorithm
 * [알고리즘 정리 + 코테 준비](https://github.com/Climier-code/TodayWhatIStudy_algorithm)
 * [해달 곰비임비_스터디](https://github.com/Climier-code/gombi)
@@ -23,8 +21,6 @@
 * [해달 데이터 센타_스터디](https://github.com/Climier-code/HaedalDataCenter)
 ### Android
 * [안드로이드 헤엄치기 (안드로이드 맛보기)](https://github.com/Climier-code/AndroidStudio)
-### IOS
-* 
 
 # Study For Experience
 > 이때까지 해온 활동들이 궁금하다면 👉 [RecrodMyActivity](https://github.com/Climier-code/RecordMyActivity) 👈 로 와주세요!
