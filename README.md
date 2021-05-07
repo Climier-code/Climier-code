@@ -13,7 +13,8 @@
 * 베프의 오지랖 파이썬 웹프로그래밍 [Bookmark](https://github.com/Climier-code/bookmark), [Dstagram](https://github.com/Climier-code/Dstagram)
 * Django 한그릇 뚝딱 [ToDoList](https://github.com/Climier-code/ToDoList_Django), [RestaurantShare](https://github.com/Climier-code/RestaurantShare_Django), [ExcelCalculate](https://github.com/Climier-code/ExcelCalculate_Django)
 * VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanilajs.git), [Clone Painting](https://github.com/Climier-code/Nomad_vanilajs2.git)
-* Practice_React [ToDoList_React](https://github.com/Climier-code/React-Basic/tree/master/TodoList)
+* Practice_React [Mini App List with React](https://github.com/Climier-code/React-Basic)
+* Develop_React [Service App List with React](https://github.com/Climier-code/React-Advanced)
 ### Algorithm
 * [알고리즘 정리 + 코테 준비](https://github.com/Climier-code/TodayWhatIStudy_algorithm)
 * [해달 곰비임비_스터디](https://github.com/Climier-code/gombi)
