@@ -10,7 +10,7 @@
 # Study For Programmer
 ### Frontend
 * IT대학 학술동아리 해달 교육운영진 교육 [IntroducePage](https://github.com/Climier-code/Climier-code.github.io), [IntroduceCard](https://github.com/Climier-code/INTRODUCECARD.climier.github.io)
-* VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanilajs.git), [Clone Painting](https://github.com/Climier-code/Nomad_vanilajs2.git)
+* VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanillajs), [Clone Painting](https://github.com/Climier-code/Nomad_vanillajs2)
 * Practice_React [Mini App List with React](https://github.com/Climier-code/React-Basic)
 * Develop_React [Service App List with React](https://github.com/Climier-code/React-Advanced)
 ### Backend(Django)
