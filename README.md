@@ -11,7 +11,7 @@
 ### Frontend
 * IT대학 학술동아리 해달 교육운영진 교육 [IntroducePage](https://github.com/Climier-code/Climier-code.github.io), [IntroduceCard](https://github.com/Climier-code/INTRODUCECARD.climier.github.io)
 * VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanillajs), [Clone Painting](https://github.com/Climier-code/Nomad_vanillajs2)
-* Practice_React(& Typescript) [Mini App List with React(& Typescript)](https://github.com/Climier-code/React-Basic)
+* Practice_React (Javascript + TypeScript) [Mini App List with React](https://github.com/Climier-code/React-Basic)
 * Develop_React [Service App List with React](https://github.com/Climier-code/React-Advanced)
 ### Algorithm
 * [알고리즘 정리 + 코테 준비](https://github.com/Climier-code/TodayWhatIStudy_algorithm)
