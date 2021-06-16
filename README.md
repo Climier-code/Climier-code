@@ -1,11 +1,17 @@
 # 소개
 > 23살 컴공 3학년 삐약이
 
+> 2021 파이콘 준비위원회
+
+> Google DSC with KNU Lead (2021~현재)
+
 
 # Projects
-* [IT단과대학 학술동아리 해달주최 해커톤_'수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
 * [경북대학교 대학원 컴퓨터학부 오픈랩 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
+* [IT단과대학 학술동아리 해달주최 해커톤_'수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
 * [커뮤니티와경제_대구 협동조합지원센터_게임으로 배우는 협동조합이란? 사이트_외주](https://github.com/Climier-code/Cooperative_site)
+### Toy Projects
+* [We go Up!(국내 및 해외 경제관련 웹 페이지)](https://github.com/Climier-code/WegoUp)
 
 # Study For Programmer
 ### Frontend
