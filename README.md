@@ -7,7 +7,7 @@
 
 
 # Projects
-* [2021 파이썬 컨퍼런스 'PyCon' 티저 홈페이지 개발](https://2021.pycon.kr/)
+* [2021 파이썬 컨퍼런스 'P' 티저 홈페이지 개발](https://2021.pycon.kr/)
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
 * [IT단과대학 학술동아리 해달주최 해커톤 '수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
 * [커뮤니티와경제 대구 협동조합지원센터 '게임으로 배우는 협동조합이란?' 홈페이지 외주](https://github.com/Climier-code/Cooperative_site)
