@@ -1,9 +1,13 @@
 # 소개
-> 23살 컴공 3학년 삐약이
+> (주)보이스루 Frontend Engineer
 
-> 2021 파이콘 준비위원회
+> 23살 컴공 3학년 삐약이(휴학 중)
 
-> Google DSC with KNU Lead (2021~현재)
+> 파이콘 한국 2021 준비위원회
+
+> [Google DSC with KNU Lead](https://gdsc.community.dev/kyungpook-national-university/)
+
+> [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EA%B0%95-7b5541213)
 
 
 # Projects
