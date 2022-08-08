@@ -1,9 +1,9 @@
 # 소개
-> (주)보이스루 Frontend Engineer
+> (주) Opensurvey Frontend Developer
 
 > 24살 컴공 3학년 삐약이(휴학 중)
 
-> 파이콘 한국 2021 준비위원회
+> 파이콘 한국 2021, 2022 준비위원회
 
 > Google DSC with KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU)
 
