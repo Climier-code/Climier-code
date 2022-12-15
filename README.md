@@ -1,16 +1,17 @@
 # 소개
-> (주) Opensurvey Frontend Developer
+> (주) 오픈서베이 Frontend Developer
 
 > 24살 컴공 3학년 삐약이(휴학 중)
 
-> 파이콘 한국 2021, 2022 준비위원회
+> GDSC KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU)
 
-> Google DSC with KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU)
+> 파이콘 한국 2021 준비위원회
 
 > [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EA%B0%95-7b5541213)
 
 
 # Projects
+* [2022 경북대학교 디자인학과 졸업전시 '126' 홈페이지 개발](https://knud1.com/)
 * [2021 파이썬 컨퍼런스 'PYCON KR 2021' 티저 홈페이지 개발](https://2021.pycon.kr/)
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
 * [IT단과대학 학술동아리 해달주최 해커톤 '수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
