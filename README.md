@@ -1,9 +1,9 @@
 # 소개
-> (주) 오픈서베이 Frontend Developer
+> 주식회사 오픈서베이 Frontend Developer
 
-> 24살 컴공 3학년 삐약이(휴학 중)
+> 25살 컴공 3학년 삐약이(휴학 중)
 
-> GDSC KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU)
+> GDSC KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (from 2021.08~)
 
 > 파이콘 한국 2021 준비위원회
 
@@ -19,14 +19,8 @@
 ### Toy Projects
 * [We go Up!(국내 및 해외 경제관련 웹 페이지)](https://github.com/Climier-code/WegoUp)
 
-# Study For Programmer
-### Frontend
-* IT대학 학술동아리 해달 교육운영진 교육 [IntroducePage](https://github.com/Climier-code/Climier-code.github.io), [IntroduceCard](https://github.com/Climier-code/INTRODUCECARD.climier.github.io)
-* VanilaJs_Nomad Coder [Clone Momontom](https://github.com/Climier-code/Nomad_vanillajs), [Clone Painting](https://github.com/Climier-code/Nomad_vanillajs2)
-* Practice_React (Javascript + TypeScript) [Mini App List with React](https://github.com/Climier-code/React-Basic)
-* Develop_React [Service App List with React](https://github.com/Climier-code/React-Advanced)
-### Algorithm
-* [알고리즘 정리 + 코테 준비](https://github.com/Climier-code/TodayWhatIStudy_algorithm)
+# ETC
+* [주니어 프론트엔드 개발자의 2연속 연사 회고(2022)](https://velog.io/@whddus0789/주니어-프론트엔드-개발자의-2연속-연사-회고2022)
 
 <!--
 **Climier-code/Climier-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
