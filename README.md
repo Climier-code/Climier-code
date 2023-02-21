@@ -11,7 +11,8 @@
 
 
 # Projects
-* [2022 경북대학교 디자인학과 졸업전시 '126' 홈페이지 개발](https://knud1.com/)
+* 2022 경북대학교 디자인학과 졸업전시 '126' 홈페이지 개발 [Site](https://knud1.com/) | [Github](https://github.com/Yoonlang/knud1)
+* 2022 GDGXGDSC DevFest Merry Careermas (메리 커리어마스) 리액트 코드잼 연사 진행 [스켈레톤 코드](https://github.com/Climier-code/2022-devfest-react-codejam) | [완성 코드](https://github.com/Climier-code/carrot-market-devfest)
 * [2021 파이썬 컨퍼런스 'PYCON KR 2021' 티저 홈페이지 개발](https://2021.pycon.kr/)
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
 * [IT단과대학 학술동아리 해달주최 해커톤 '수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
