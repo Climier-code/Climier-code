@@ -3,6 +3,8 @@
 
 > 25살 컴공 3학년 삐약이(휴학 중)
 
+> GDG Korea WebTech Organizer
+
 > GDSC KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (from 2021.08~)
 
 > 파이콘 한국 2021 준비위원회
