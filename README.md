@@ -1,11 +1,11 @@
 # 소개
-> 주식회사 오픈서베이 Frontend Developer
+> 주식회사 오픈서베이 Frontend Engineer
 
 > 25살 컴공 3학년 삐약이(휴학 중)
 
 > GDG Korea WebTech Organizer
 
-> GDSC KNU Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (from 2021.08~)
+> GDSC KNU Founder, 1st & 2nd Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (2021.08 ~ 2023.08)
 
 > 파이콘 한국 2021 준비위원회
 
