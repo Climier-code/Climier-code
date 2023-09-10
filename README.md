@@ -23,6 +23,8 @@
 * [We go Up!(국내 및 해외 경제관련 웹 페이지)](https://github.com/Climier-code/WegoUp)
 
 # ETC
+* [Passkeys: 더 간단하고 안전한 로그인 - I/O Extended 2023 Incheon 연사 발표 장표](https://speakerdeck.com/jongyeon/o-extended-2023-incheon)
+* [TypeScript V5로 타입서커스 - 2023 프론트엔드 트렌드 따라잡기 연사 발표 장표](https://speakerdeck.com/jongyeon/typescript-v5ro-taibseokeoseu-2023-peuronteuendeu-teurendeu-ddarajabgi)
 * [주니어 프론트엔드 개발자의 2연속 연사 회고(2022)](https://velog.io/@whddus0789/주니어-프론트엔드-개발자의-2연속-연사-회고2022)
 
 <!--
