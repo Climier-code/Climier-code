@@ -1,7 +1,7 @@
 # 소개
-> 주식회사 오픈서베이 Frontend Engineer
+> 주식회사 오픈서베이 Frontend Engineer (휴직 중)
 
-> 25살 컴공 3학년 삐약이(휴학 중)
+> 26살 컴공 3학년 삐약이
 
 > GDG Korea WebTech Organizer
 
