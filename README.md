@@ -1,11 +1,11 @@
 # 소개
-> 주식회사 오픈서베이 Frontend Engineer (휴직 중)
+> 주식회사 오픈서베이 Frontend Engineer
 
-> 26살 컴공 3학년 삐약이
+> 26살 컴공 4학년 삐약이
 
 > GDG Korea WebTech Organizer
 
-> GDSC KNU Founder, 1st & 2nd Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (2021.08 ~ 2023.08)
+> GDSC KNU Founder, 1st & 2nd Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (2021.08 ~ 2023.08) & 2022-2023 GDSC Korea 우수 리드
 
 > 파이콘 한국 2021 준비위원회
 
@@ -17,12 +17,15 @@
 * 2022 GDGXGDSC DevFest Merry Careermas (메리 커리어마스) 리액트 코드잼 연사 진행 [festa](https://festa.io/events/2898) | [스켈레톤 코드](https://github.com/Climier-code/2022-devfest-react-codejam) | [완성 코드](https://github.com/Climier-code/carrot-market-devfest)
 * [2021 파이썬 컨퍼런스 'PYCON KR 2021' 티저 홈페이지 개발](https://2021.pycon.kr/)
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
-* [IT단과대학 학술동아리 해달주최 해커톤 '수강신청 확실하게 행복하게' 기획 및 개발](https://github.com/Climier-code/Haedal_Hackathon_2019_2)
-* [커뮤니티와경제 대구 협동조합지원센터 '게임으로 배우는 협동조합이란?' 홈페이지 외주](https://github.com/Climier-code/Cooperative_site)
+  
 ### Toy Projects
 * [We go Up!(국내 및 해외 경제관련 웹 페이지)](https://github.com/Climier-code/WegoUp)
 
 # ETC
+* <2024 경북대학교 동아리 연합 해커톤-GLOW HACKATHON> - 개발자 연사 & 해커톤 심사위원
+* <2024 GDSC 연합해커톤-눈꽃톤> 해커톤 심사위원
+* <GDSC X UMC TECH BUILD IT!> 오프라인 개발 세미나 연사
+* <23-24 GDSC Lead OnBoarding> Tips from GDSC 22-23 우수 리드 연사
 * [Passkeys: 더 간단하고 안전한 로그인 - I/O Extended 2023 Incheon 연사 발표 장표](https://speakerdeck.com/jongyeon/o-extended-2023-incheon)
 * [TypeScript V5로 타입서커스 - 2023 프론트엔드 트렌드 따라잡기 연사 발표 장표](https://speakerdeck.com/jongyeon/typescript-v5ro-taibseokeoseu-2023-peuronteuendeu-teurendeu-ddarajabgi)
 * [주니어 프론트엔드 개발자의 2연속 연사 회고(2022)](https://velog.io/@whddus0789/주니어-프론트엔드-개발자의-2연속-연사-회고2022)
