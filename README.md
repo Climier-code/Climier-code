@@ -9,7 +9,7 @@
 
 > 파이콘 한국 2021 준비위원회
 
-> [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EA%B0%95-7b5541213)
+> [LinkedIn](https://www.linkedin.com/in/jongyeon/)
 
 
 # Projects
@@ -17,15 +17,13 @@
 * 2022 GDGXGDSC DevFest Merry Careermas (메리 커리어마스) 리액트 코드잼 연사 진행 [festa](https://festa.io/events/2898) | [스켈레톤 코드](https://github.com/Climier-code/2022-devfest-react-codejam) | [완성 코드](https://github.com/Climier-code/carrot-market-devfest)
 * [2021 파이썬 컨퍼런스 'PYCON KR 2021' 티저 홈페이지 개발](https://2021.pycon.kr/)
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
-  
-### Toy Projects
-* [We go Up!(국내 및 해외 경제관련 웹 페이지)](https://github.com/Climier-code/WegoUp)
 
 # ETC
-* <2024 경북대학교 동아리 연합 해커톤-GLOW HACKATHON> - 개발자 연사 & 해커톤 심사위원
-* <2024 GDSC 연합해커톤-눈꽃톤> 해커톤 심사위원
-* <GDSC X UMC TECH BUILD IT!> 오프라인 개발 세미나 연사
-* <23-24 GDSC Lead OnBoarding> Tips from GDSC 22-23 우수 리드 연사
+* <GDG상사 <신입사원 모집중!>> - Frontend 멘토 ( [Site](https://festa.io/events/5520) )
+* <2024 경북대학교 동아리 연합 해커톤 - GLOW HACKATHON> - 개발자 연사 & 해커톤 심사위원
+* <2024 GDSC 연합해커톤 - 눈꽃톤> - 해커톤 심사위원 
+* <GDSC X UMC TECH BUILD IT!> - 오프라인 개발 세미나 연사 [Site](https://gdsc.community.dev/events/details/developer-student-clubs-ewha-womans-university-presents-snow-flower-hackathon/) | [Notion](https://south-kryptops-4ca.notion.site/2024-d0760b1406a54893a7a23484621291ce?pvs=4)
+* <23-24 GDSC Lead OnBoarding> - Tips from GDSC 22-23 우수 리드 연사
 * [Passkeys: 더 간단하고 안전한 로그인 - I/O Extended 2023 Incheon 연사 발표 장표](https://speakerdeck.com/jongyeon/o-extended-2023-incheon)
 * [TypeScript V5로 타입서커스 - 2023 프론트엔드 트렌드 따라잡기 연사 발표 장표](https://speakerdeck.com/jongyeon/typescript-v5ro-taibseokeoseu-2023-peuronteuendeu-teurendeu-ddarajabgi)
 * [주니어 프론트엔드 개발자의 2연속 연사 회고(2022)](https://velog.io/@whddus0789/주니어-프론트엔드-개발자의-2연속-연사-회고2022)
