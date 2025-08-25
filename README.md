@@ -1,13 +1,11 @@
-# 소개
-> 주식회사 오픈서베이 Frontend Engineer
+# About
+> Opensurvey Frontend Engineer
 
-> 26살 컴공 4학년 삐약이
+> ex-GDG Korea WebTech Organizer
 
-> GDG Korea WebTech Organizer
+> ex-GDSC KNU Founder, 1st & 2nd Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (2021.08 ~ 2023.08) & 2022-2023 GDSC Korea 우수 리드
 
-> GDSC KNU Founder, 1st & 2nd Lead [Site](https://gdsc.community.dev/kyungpook-national-university/) | [Github](https://github.com/GDSC-KNU) (2021.08 ~ 2023.08) & 2022-2023 GDSC Korea 우수 리드
-
-> 파이콘 한국 2021 준비위원회
+> ex-파이콘 한국 2021 준비위원회
 
 > [LinkedIn](https://www.linkedin.com/in/jongyeon/)
 
@@ -19,6 +17,8 @@
 * [경북대학교 대학원 컴퓨터학부 'OPEN LAB' 홈페이지 개발](https://cse.knu.ac.kr/openlab/)
 
 # ETC
+* <DEVFEST: CAREER TALKS> - 프론트엔드 파트 연사
+* <구름톤 유니브 4기 파트별 세미나> - 프론트엔드 파트
 * <GDG상사 <신입사원 모집중!>> - Frontend 멘토 ( [Site](https://festa.io/events/5520) )
 * <2024 경북대학교 동아리 연합 해커톤 - GLOW HACKATHON> - 개발자 연사 & 해커톤 심사위원
 * <2024 GDSC 연합해커톤 - 눈꽃톤> - 해커톤 심사위원 
